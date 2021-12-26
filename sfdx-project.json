@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "RaspiSampleContactCustomFields",
+            "versionName": "Version 1",
+            "versionNumber": "1.0.0.NEXT"
+        }
+    ],
+    "name": "sample-contact-custom-fields",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "52.0",
+    "packageAliases": {
+        "RaspiSampleContactCustomFields": "0Ho1i000000CaZLCA0",
+        "RaspiSampleContactCustomFields@1.0.0-0": "04t1i0000010etJAAQ"
+    }
+}
